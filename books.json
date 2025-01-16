@@ -1,0 +1,240 @@
+[
+  {
+    "auteur": "J.K. Rowling",
+    "titel": "Harry Potter en de Steen der Wijzen",
+    "genre": "Fantasy",
+    "bladzijdes": 320,
+    "verschijningsdatum": "1997-06-26"
+  },
+  {
+    "auteur": "J.K. Rowling",
+    "titel": "Harry Potter en de Geheime Kamer",
+    "genre": "Fantasy",
+    "bladzijdes": 341,
+    "verschijningsdatum": "1998-07-02"
+  },
+  {
+    "auteur": "George Orwell",
+    "titel": "1984",
+    "genre": "Dystopie",
+    "bladzijdes": 328,
+    "verschijningsdatum": "1949-06-08"
+  },
+  {
+    "auteur": "George Orwell",
+    "titel": "Animal Farm",
+    "genre": "Satire",
+    "bladzijdes": 112,
+    "verschijningsdatum": "1945-08-17"
+  },
+  {
+    "auteur": "J.R.R. Tolkien",
+    "titel": "De Hobbit",
+    "genre": "Fantasy",
+    "bladzijdes": 310,
+    "verschijningsdatum": "1937-09-21"
+  },
+  {
+    "auteur": "J.R.R. Tolkien",
+    "titel": "In de Ban van de Ring: De Reisgenoten",
+    "genre": "Fantasy",
+    "bladzijdes": 423,
+    "verschijningsdatum": "1954-07-29"
+  },
+  {
+    "auteur": "Harper Lee",
+    "titel": "To Kill a Mockingbird",
+    "genre": "Literatuur",
+    "bladzijdes": 281,
+    "verschijningsdatum": "1960-07-11"
+  },
+  {
+    "auteur": "F. Scott Fitzgerald",
+    "titel": "The Great Gatsby",
+    "genre": "Literatuur",
+    "bladzijdes": 180,
+    "verschijningsdatum": "1925-04-10"
+  },
+  {
+    "auteur": "Jane Austen",
+    "titel": "Pride and Prejudice",
+    "genre": "Romantiek",
+    "bladzijdes": 279,
+    "verschijningsdatum": "1813-01-28"
+  },
+  {
+    "auteur": "Mary Shelley",
+    "titel": "Frankenstein",
+    "genre": "Horror",
+    "bladzijdes": 280,
+    "verschijningsdatum": "1818-01-01"
+  },
+  {
+    "auteur": "Leo Tolstoy",
+    "titel": "Oorlog en Vrede",
+    "genre": "Historisch",
+    "bladzijdes": 1225,
+    "verschijningsdatum": "1869-01-01"
+  },
+  {
+    "auteur": "Herman Melville",
+    "titel": "Moby Dick",
+    "genre": "Avontuur",
+    "bladzijdes": 635,
+    "verschijningsdatum": "1851-10-18"
+  },
+  {
+    "auteur": "Charles Dickens",
+    "titel": "Oliver Twist",
+    "genre": "Literatuur",
+    "bladzijdes": 554,
+    "verschijningsdatum": "1837-11-01"
+  },
+  {
+    "auteur": "Charles Dickens",
+    "titel": "A Tale of Two Cities",
+    "genre": "Historisch",
+    "bladzijdes": 489,
+    "verschijningsdatum": "1859-04-30"
+  },
+  {
+    "auteur": "Gabriel García Márquez",
+    "titel": "Honderd Jaar Eenzaamheid",
+    "genre": "Magisch realisme",
+    "bladzijdes": 417,
+    "verschijningsdatum": "1967-05-30"
+  },
+  {
+    "auteur": "Fyodor Dostoyevsky",
+    "titel": "Misdaad en Straf",
+    "genre": "Psychologisch",
+    "bladzijdes": 671,
+    "verschijningsdatum": "1866-01-01"
+  },
+  {
+    "auteur": "Franz Kafka",
+    "titel": "Het Proces",
+    "genre": "Existentialisme",
+    "bladzijdes": 255,
+    "verschijningsdatum": "1925-01-01"
+  },
+  {
+    "auteur": "Albert Camus",
+    "titel": "De Vreemdeling",
+    "genre": "Filosofie",
+    "bladzijdes": 123,
+    "verschijningsdatum": "1942-06-01"
+  },
+  {
+    "auteur": "Aldous Huxley",
+    "titel": "Brave New World",
+    "genre": "Dystopie",
+    "bladzijdes": 311,
+    "verschijningsdatum": "1932-08-01"
+  },
+  {
+    "auteur": "H.G. Wells",
+    "titel": "De Oorlog der Werelden",
+    "genre": "Science Fiction",
+    "bladzijdes": 287,
+    "verschijningsdatum": "1898-01-01"
+  },
+  {
+    "auteur": "Margaret Atwood",
+    "titel": "Het Verhaal van de Dienstmaagd",
+    "genre": "Dystopie",
+    "bladzijdes": 311,
+    "verschijningsdatum": "1985-09-01"
+  },
+  {
+    "auteur": "Kurt Vonnegut",
+    "titel": "Slachthuis Vijf",
+    "genre": "Science Fiction",
+    "bladzijdes": 275,
+    "verschijningsdatum": "1969-03-31"
+  },
+  {
+    "auteur": "J.D. Salinger",
+    "titel": "De Vanger in het Graan",
+    "genre": "Literatuur",
+    "bladzijdes": 214,
+    "verschijningsdatum": "1951-07-16"
+  },
+  {
+    "auteur": "Emily Brontë",
+    "titel": "Wuthering Heights",
+    "genre": "Romantiek",
+    "bladzijdes": 416,
+    "verschijningsdatum": "1847-12-01"
+  },
+  {
+    "auteur": "Mark Twain",
+    "titel": "De Avonturen van Tom Sawyer",
+    "genre": "Avontuur",
+    "bladzijdes": 274,
+    "verschijningsdatum": "1876-01-01"
+  },
+  {
+    "auteur": "John Steinbeck",
+    "titel": "Muizen en Mensen",
+    "genre": "Literatuur",
+    "bladzijdes": 112,
+    "verschijningsdatum": "1937-01-01"
+  },
+  {
+    "auteur": "John Steinbeck",
+    "titel": "De Druiven der Gramschap",
+    "genre": "Historisch",
+    "bladzijdes": 464,
+    "verschijningsdatum": "1939-04-14"
+  },
+  {
+    "auteur": "Virginia Woolf",
+    "titel": "Mrs. Dalloway",
+    "genre": "Modernisme",
+    "bladzijdes": 201,
+    "verschijningsdatum": "1925-05-14"
+  },
+  {
+    "auteur": "Ernest Hemingway",
+    "titel": "De Oude Man en de Zee",
+    "genre": "Avontuur",
+    "bladzijdes": 127,
+    "verschijningsdatum": "1952-09-01"
+  },
+  {
+    "auteur": "F. Scott Fitzgerald",
+    "titel": "Tender is the Night",
+    "genre": "Literatuur",
+    "bladzijdes": 317,
+    "verschijningsdatum": "1934-04-12"
+  },
+  {
+    "auteur": "Jules Verne",
+    "titel": "Twintigduizend Mijlen Onder Zee",
+    "genre": "Avontuur",
+    "bladzijdes": 427,
+    "verschijningsdatum": "1870-01-01"
+  },
+  {
+    "auteur": "Jules Verne",
+    "titel": "De Reis om de Wereld in 80 Dagen",
+    "genre": "Avontuur",
+    "bladzijdes": 253,
+    "verschijningsdatum": "1873-01-01"
+  },
+  {
+    "auteur": "Hermann Hesse",
+    "titel": "Siddhartha",
+    "genre": "Filosofie",
+    "bladzijdes": 152,
+    "verschijningsdatum": "1922-01-01"
+  },
+  {
+    "auteur": "Lewis Carroll",
+    "titel": "Alice's Adventures in Wonderland",
+    "genre": "Fantasy",
+    "bladzijdes": 200,
+    "verschijningsdatum": "1865-11-26"
+  }
+]

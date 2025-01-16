@@ -1,14 +1,14 @@
 import express from "express";
 
+import path from "path";
+
+import routes from "./routes/routes.js";
+
 const app = express();
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
+app.use("/", routes);
 
-app.use((req, res, next) => {
-  `Request_Endpoint: ${req.method} ${req.url} ${new Date()}`;
-});
+app.use(express.static(path.join(__dirname, "public")));
 
 const PORT = process.env.PORT || 3000;
 
